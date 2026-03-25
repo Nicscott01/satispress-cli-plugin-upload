@@ -1,0 +1,15 @@
+# Default connection settings for the SatisPress packages server.
+
+# HOST="webserver.example.com"
+# USER_NAME="packages"
+
+# Set this once you confirm the WordPress root on the packages server.
+# Example:
+# WP_PATH="/home/packages/files/web/wp"
+
+# Optional overrides.
+# SSH_PORT="22"
+# IDENTITY_FILE="${HOME}/.ssh/id_rsa"
+# WP_BIN="wp"
+# WP_URL=""
+# REMOTE_TMP_DIR="/tmp"
